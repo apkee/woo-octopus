@@ -1,0 +1,5 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .woocommerce-checkout #payment ul.payment_methods li .payment-octopus-tooltip{position:relative;display:inline-block;color:#00f;text-decoration:underline}.woocommerce-checkout #payment ul.payment_methods li .payment-octopus-tooltip img.payment-octopus-tooltip-img{display:none;-webkit-user-drag:none;-khtml-user-drag:none;-moz-user-drag:none;-o-user-drag:none;user-drag:none}.woocommerce-checkout #payment ul.payment_methods li .payment-octopus-tooltip:hover .payment-octopus-tooltip-img{display:block}

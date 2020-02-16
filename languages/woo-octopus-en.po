@@ -1,0 +1,119 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ApKee
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Octopus 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 03:45+0800\n"
+"PO-Revision-Date: 2020-02-15 09:17-0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: admin/class-woo-octopus-admin.php:124
+msgid "Settings"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:16
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:48
+msgid "Octopus Payments"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:17
+msgid ""
+"Allows Octopus payments. If you need any help on customized Octopus "
+"integration, feel free to contact us at <a href='mailto:info@apkee."
+"hk'>info@apkee.hk</a>"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:38
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:40
+msgid "Enable Octopus Payments"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:45
+msgid "Title"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:47
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:53
+msgid "Description"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:55
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:56
+msgid "Please remit payment to the following Octopus Account:"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:61
+msgid "Instructions"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:63
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:64
+msgid ""
+"Please provide your reference number in Order Detail page after remitted "
+"payment through Octopus."
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:70
+msgid "Octopus Merchant QR Code"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:72
+msgid "Your Octopus merchant QR Code image path."
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:79
+msgid "How to use Octopus payment?"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:116
+msgid "Awaiting Octopus payments"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:141
+msgid "Payment description:"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:149
+msgid "Not submitted"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:151
+msgid "Octopus reference number:"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:270
+msgid "Select image"
+msgstr ""
+
+#: public/partials/woo-octopus-reference-number.php:20
+msgid "Submit your Otocpus reference number:"
+msgstr ""
+
+#: public/partials/woo-octopus-reference-number.php:21
+msgid "Submit"
+msgstr ""

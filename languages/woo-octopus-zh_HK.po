@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ApKee
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Octopus 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 03:45+0800\n"
+"PO-Revision-Date: 2020-02-05 12:02-0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_HK\n"
+
+#: admin/class-woo-octopus-admin.php:124
+msgid "Settings"
+msgstr "設定"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:16
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:48
+msgid "Octopus Payments"
+msgstr "「八達通 Octopus」付款"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:17
+msgid ""
+"Allows Octopus payments. If you need any help on customized Octopus "
+"integration, feel free to contact us at <a href='mailto:info@apkee."
+"hk'>info@apkee.hk</a>"
+msgstr ""
+"允許以「八達通 Octopus」付款。 如果需要任何有關定製八達通的方案, 歡迎透過 <a "
+"href=‘mailto:info@apkee.hk’>info@apkee.hk</a>"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:38
+msgid "Enable/Disable"
+msgstr "啓用/停用"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:40
+msgid "Enable Octopus Payments"
+msgstr "啟用「八達通 Octopus」付款"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:45
+msgid "Title"
+msgstr "標題"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:47
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr "客戶在付款時看到的付款方式名稱。"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:53
+msgid "Description"
+msgstr "說明"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:55
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "客戶在付款時看到的付款方式說明。"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:56
+msgid "Please remit payment to the following Octopus Account:"
+msgstr "請將匯款存入以下「八達通 Octopus」賬戶:"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:61
+msgid "Instructions"
+msgstr "指示"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:63
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr "將添加到多謝頁面和電子郵件的說明。"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:64
+msgid ""
+"Please provide your reference number in Order Detail page after remitted "
+"payment through Octopus."
+msgstr ""
+"透過「八達通 Octopus」匯出款項後, 請在訂單詳細信息頁面中提供你嘅參考編號。"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:70
+msgid ""
+"「八達通 Octopus」商戶 QR Code"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:72
+msgid ""
+"你的「八達通 Octopus」商戶 QR Code 圖標路徑。"
+msgstr ""
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:79
+msgid "How to use Octopus payment?"
+msgstr "如何使用「八達通 Octopus」付款？"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:116
+msgid "Awaiting Octopus payments"
+msgstr "等待「八達通 Octopus」付款"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:141
+msgid "Payment description:"
+msgstr "付款說明："
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:149
+msgid "Not submitted"
+msgstr "未提交"
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:151
+msgid "Octopus reference number:"
+msgstr "「八達通 Octopus」參考編號："
+
+#: includes/payment-methods/class-woo-octopus-gatewat-offline.php:270
+msgid "Select image"
+msgstr "選擇圖片"
+
+#: public/partials/woo-octopus-reference-number.php:20
+msgid "Submit your Otocpus reference number:"
+msgstr "提交「八達通 Octopus」參考編號："
+
+#: public/partials/woo-octopus-reference-number.php:21
+msgid "Submit"
+msgstr "提交"
