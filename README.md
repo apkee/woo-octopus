@@ -1,6 +1,6 @@
 === Octopus 八達通 Offline Payment Gateway ===
 
-* Contributors: (this should be a list of wordpress.org userid's)
+* Contributors: paulus@apkee
 * Donate link: https://apkee.hk/kedi
 * Tested up to: WordPress v5.3.2 WooCommerce v3.9.2
 * License: GPLv2 or later
