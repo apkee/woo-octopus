@@ -19,8 +19,6 @@ WordPress + WooCommerce 的「商戶版」Octopus 八達通 Offline Payment Gate
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
 1. 下載成個 project 然後 upload 個 zip 檔案（woo-octopus-master.zip）去你個 WordPress，Plugins > Add New > Upload Plugin）。
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. 去 WooCommerce > Settings > Payments > Octopus Payment > Manage，可以咩都唔改，淨係加上你個「八達通 商戶 QR Code」就 OK。
